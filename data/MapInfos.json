@@ -24,6 +24,6 @@ null,
 {"id":22,"expanded":true,"name":"#311 Male Restroom - X","order":22,"parentId":20,"scrollX":728,"scrollY":414.22222222222223},
 {"id":23,"expanded":true,"name":"#312 Female Restroom - X","order":23,"parentId":20,"scrollX":981.5999999999999,"scrollY":553.8},
 {"id":24,"expanded":false,"name":"Hospital - Floor 4","order":26,"parentId":0,"scrollX":655.2,"scrollY":372.8},
-{"id":25,"expanded":true,"name":"#305 Archieve Room - X","order":24,"parentId":20,"scrollX":982.8,"scrollY":559.1999999999999},
+{"id":25,"expanded":true,"name":"#305 Archieve Room - X","order":24,"parentId":20,"scrollX":655.2,"scrollY":372.8},
 {"id":26,"expanded":false,"name":"#301 Patient Room?","order":25,"parentId":20,"scrollX":655.2,"scrollY":372.8}
 ]
